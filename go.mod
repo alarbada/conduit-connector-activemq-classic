@@ -4,7 +4,7 @@ go 1.22.0
 
 require (
 	github.com/conduitio/conduit-connector-sdk v0.8.0
-	github.com/go-stomp/stomp/v3 v3.0.6
+	github.com/go-stomp/stomp/v3 v3.1.0
 	github.com/goccy/go-json v0.10.2
 	github.com/golangci/golangci-lint v1.56.2
 	github.com/matryer/is v1.4.1
